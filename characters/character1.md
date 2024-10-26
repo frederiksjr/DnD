@@ -5,7 +5,7 @@ title: "Character1"
 
 # Example Character
 
-- **Name**: Elvis
+- **Name**: grog
 - **Class**: Wizard
 - **Description**: A mysterious character with a dark past.
 
