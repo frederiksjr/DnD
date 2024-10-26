@@ -1,3 +1,4 @@
 title: "DnD Database"
 description: "A Wikipedia-style database for our DnD sessions."
 theme: jekyll-theme-slate # or pick a different Jekyll theme
+permalink: /:path/
