@@ -9,4 +9,4 @@ title: "Character1"
 - **Class**: Wizard
 - **Description**: A mysterious character with a dark past.
 
-[Back to Characters](/characters)
+[Back to Characters](characters_index)
