@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Example Character"
+title: "Character1"
 ---
 
 # Example Character
